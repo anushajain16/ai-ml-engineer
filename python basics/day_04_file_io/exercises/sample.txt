@@ -1,0 +1,2 @@
+This is sample text for the file I/O exercises.
+Python file handling is important for real-world projects.
